@@ -1,30 +1,26 @@
-# SpanishWise v1.3
+# SpanishWise v1.4
 
-Cervantes-inspired C1/C2 content expansion.
+Cervantes-style Pack 1 expansion: individual, body, emotions, health, family and social behaviour.
 
 ## What changed
 
-- Expanded vocabulary to 452 advanced words and expressions
-- Expanded grammar wiki to 25 topics
-- Expanded quiz to 67 questions
-- Added more thematic domains:
-  - body and description
-  - emotions and reactions
-  - health
-  - administration
-  - family and social relations
-  - food and drink
-  - education
-  - work
-  - media
-  - housing
-  - finance
-  - law and politics
-  - nature and weather
-  - style and art
-- Kept the v1.2 app structure stable
-- Updated cache to v1.3
+- Expanded vocabulary to 714 advanced words and expressions
+- Expanded grammar wiki to 35 topics
+- Expanded quiz to 119 questions
+- Added deeper coverage for:
+  - body and physical description
+  - body gestures and posture
+  - life cycle and death register
+  - character and values
+  - emotions, idioms and reactions
+  - mental states
+  - manners and behaviour
+  - family and relationships
+  - social support and exclusion
+  - health, symptoms and injuries
+- Kept app UI stable
+- Updated cache to v1.4
 
 ## Note
 
-This is a curated learning bank inspired by C1/C2 thematic inventories. It is not a verbatim dump of any official inventory.
+This is a curated learning bank inspired by the C1/C2 thematic direction, not a verbatim reproduction of any official source.
