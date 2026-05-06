@@ -8,3 +8,13 @@
 .word-header>div:first-child{min-width:0}
 .meaning{overflow-wrap:anywhere}
 @media(max-width:520px){.word-card .word-title,.today-card .word-title{font-size:clamp(34px,13vw,52px)}}
+
+/* v1.2 content-bank polish */
+.word-card,.today-card{overflow:hidden}
+.word-title{max-width:100%;overflow-wrap:anywhere;word-break:normal;hyphens:auto}
+.word-card .word-title{font-size:clamp(30px,4.7vw,52px);line-height:.92;letter-spacing:-.055em}
+.today-card .word-title{font-size:clamp(44px,9vw,86px)}
+.word-header{min-width:0}
+.word-header>div:first-child{min-width:0}
+.meaning{overflow-wrap:anywhere}
+@media(max-width:520px){.word-card .word-title,.today-card .word-title{font-size:clamp(34px,13vw,52px)}}
