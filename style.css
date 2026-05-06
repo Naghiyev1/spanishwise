@@ -197,3 +197,12 @@ button{touch-action:manipulation}
 
 /* v1.9.2 quiz filter fix polish */
 .quiz-card .eyebrow{word-break:break-word}
+
+/* v1.9.3 mobile calm fix */
+.hero-card{margin-top:8px}
+#app > .stats-strip:first-child{margin-top:8px}
+@media(max-width:520px){
+  .hero-card h1{font-size:clamp(38px,14vw,62px)}
+  .hero-card p{font-size:15px}
+  .section-heading{margin-top:10px}
+}
