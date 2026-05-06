@@ -1,25 +1,43 @@
-# SpanishWise v1.8
+# SpanishWise v1.9
 
-Cervantes-style Pack 5 expansion: art, literature, music, cinema, photography, architecture, science and technology.
+Learning Experience Pack.
 
 ## What changed
 
-- Expanded vocabulary to 1676 advanced words and expressions
-- Expanded grammar wiki to 95 topics
-- Expanded quiz to 448 questions
-- Added deeper coverage for:
-  - art criticism and the art market
-  - music, voice and performance
-  - cinema, theatre and production vocabulary
-  - photography and visual composition
-  - architecture, sculpture and painting
-  - literature, rhetoric, poetry and style
-  - scientific method and argumentation
-  - biology, maths, physics and chemistry
-  - technology, computing and digital operations
-- Kept app UI stable
-- Updated cache to v1.8
+Content is preserved from v1.8:
 
-## Note
+- 1676 advanced C1/C2 words and expressions
+- 95 grammar / usage topics
+- 448 quiz questions
 
-This is a curated learning bank inspired by C1/C2 thematic direction, not a verbatim reproduction of any official source.
+New learning features:
+
+- Saved / favourite words
+- Weak words review mode
+- Wrong quiz answers automatically added to weak words
+- Better search across word, meaning, definition, examples, chunks and related terms
+- Category filter
+- Level filter
+- Quiz mode selector: all / weak / saved
+- Daily streak counter
+- Study stats and quiz accuracy
+- Hide/reveal examples for active recall
+- Settings page
+- Cleaner responsive/mobile layout
+- Cache updated to v1.9
+
+## Upload
+
+Upload all files to the repo root:
+
+- index.html
+- style-v1-9.css
+- app-v1-9.js
+- style.css
+- app.js
+- README.md
+- icon.svg
+- manifest.json
+- service-worker.js
+
+Then commit and hard refresh once.
