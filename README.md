@@ -1,14 +1,15 @@
-# SpanishWise v1.1
+# SpanishWise v1.2
 
-Advanced Spanish grammar wiki and C1/C2 vocabulary trainer.
+Content expansion build.
 
 ## What changed
 
-- Fixed long-word overflow in cards
-- Improved responsive typography
-- Expanded advanced vocabulary to 79 words
-- Expanded grammar wiki to 15 topics
-- Expanded mini quiz to 14 questions
-- Kept app structure stable
+- Expanded advanced vocabulary to 163 words
+- Expanded mini quiz to 26 questions
+- Kept grammar topics at 15
+- Kept v1.1 long-word layout fixes
+- Cache updated to v1.2
 
-Note: there is no single universal official “all C1/C2 vocabulary list”. This app uses a curated advanced vocabulary bank and can be expanded in batches.
+## Note
+
+There is no single universal official “all C1/C2 vocabulary list”. SpanishWise uses a curated advanced vocabulary bank that can be expanded in batches.
