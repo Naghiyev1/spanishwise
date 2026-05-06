@@ -40,3 +40,14 @@
 .meaning{overflow-wrap:anywhere}
 .collocations .pill{max-width:100%;overflow-wrap:anywhere}
 @media(max-width:520px){.word-card .word-title,.today-card .word-title{font-size:clamp(31px,11.5vw,49px)}}
+
+/* v1.5 content expansion polish */
+.word-card,.today-card{overflow:hidden}
+.word-title{max-width:100%;overflow-wrap:anywhere;word-break:normal;hyphens:auto}
+.word-card .word-title{font-size:clamp(26px,4.1vw,48px);line-height:.92;letter-spacing:-.046em}
+.today-card .word-title{font-size:clamp(40px,8.3vw,82px)}
+.word-header{min-width:0}
+.word-header>div:first-child{min-width:0}
+.meaning{overflow-wrap:anywhere}
+.collocations .pill{max-width:100%;overflow-wrap:anywhere}
+@media(max-width:520px){.word-card .word-title,.today-card .word-title{font-size:clamp(30px,11vw,48px)}}
