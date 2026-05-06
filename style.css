@@ -73,3 +73,14 @@
 .meaning{overflow-wrap:anywhere}
 .collocations .pill{max-width:100%;overflow-wrap:anywhere}
 @media(max-width:520px){.word-card .word-title,.today-card .word-title{font-size:clamp(28px,10.3vw,46px)}}
+
+/* v1.8 content expansion polish */
+.word-card,.today-card{overflow:hidden}
+.word-title{max-width:100%;overflow-wrap:anywhere;word-break:normal;hyphens:auto}
+.word-card .word-title{font-size:clamp(23px,3.72vw,45px);line-height:.92;letter-spacing:-.043em}
+.today-card .word-title{font-size:clamp(35px,7.6vw,76px)}
+.word-header{min-width:0}
+.word-header>div:first-child{min-width:0}
+.meaning{overflow-wrap:anywhere}
+.collocations .pill{max-width:100%;overflow-wrap:anywhere}
+@media(max-width:520px){.word-card .word-title,.today-card .word-title{font-size:clamp(27px,10vw,45px)}}
