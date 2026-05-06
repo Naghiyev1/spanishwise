@@ -1,15 +1,30 @@
-# SpanishWise v1.2
+# SpanishWise v1.3
 
-Content expansion build.
+Cervantes-inspired C1/C2 content expansion.
 
 ## What changed
 
-- Expanded advanced vocabulary to 163 words
-- Expanded mini quiz to 26 questions
-- Kept grammar topics at 15
-- Kept v1.1 long-word layout fixes
-- Cache updated to v1.2
+- Expanded vocabulary to 452 advanced words and expressions
+- Expanded grammar wiki to 25 topics
+- Expanded quiz to 67 questions
+- Added more thematic domains:
+  - body and description
+  - emotions and reactions
+  - health
+  - administration
+  - family and social relations
+  - food and drink
+  - education
+  - work
+  - media
+  - housing
+  - finance
+  - law and politics
+  - nature and weather
+  - style and art
+- Kept the v1.2 app structure stable
+- Updated cache to v1.3
 
 ## Note
 
-There is no single universal official “all C1/C2 vocabulary list”. SpanishWise uses a curated advanced vocabulary bank that can be expanded in batches.
+This is a curated learning bank inspired by C1/C2 thematic inventories. It is not a verbatim dump of any official inventory.
