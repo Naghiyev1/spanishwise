@@ -1,23 +1,24 @@
-# SpanishWise v1.7
+# SpanishWise v1.8
 
-Cervantes-style Pack 4 expansion: housing, travel, transport, geography, nature, climate and environment.
+Cervantes-style Pack 5 expansion: art, literature, music, cinema, photography, architecture, science and technology.
 
 ## What changed
 
-- Expanded vocabulary to 1465 advanced words and expressions
-- Expanded grammar wiki to 80 topics
-- Expanded quiz to 367 questions
+- Expanded vocabulary to 1676 advanced words and expressions
+- Expanded grammar wiki to 95 topics
+- Expanded quiz to 448 questions
 - Added deeper coverage for:
-  - housing, rental vocabulary and construction
-  - household objects, cleaning and home condition
-  - travel, routes and mountain/sea vocabulary
-  - roads, driving, vehicle incidents and insurance
-  - geography and landscape description
-  - climate and weather idioms
-  - fauna, flora and plant processes
-  - environmental problems and natural disasters
+  - art criticism and the art market
+  - music, voice and performance
+  - cinema, theatre and production vocabulary
+  - photography and visual composition
+  - architecture, sculpture and painting
+  - literature, rhetoric, poetry and style
+  - scientific method and argumentation
+  - biology, maths, physics and chemistry
+  - technology, computing and digital operations
 - Kept app UI stable
-- Updated cache to v1.7
+- Updated cache to v1.8
 
 ## Note
 
