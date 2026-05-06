@@ -1,4 +1,4 @@
-# SpanishWise v1.9.1
+# SpanishWise v1.9.2
 
 Learning Experience Pack.
 
@@ -50,3 +50,13 @@ Then commit and hard refresh once.
 - Fixed Clear button reliability
 - Added explicit button types to prevent accidental form-style behaviour
 - Updated cache to v1.9.1
+
+
+## v1.9.2 fix
+
+- Fixed quiz category filtering
+- Fixed quiz level filtering
+- Changing quiz filters now rebuilds the actual question pool
+- Changing quiz filters now generates a fresh question from the selected pool
+- Saved and Weak quiz modes now respect category and level filters
+- Updated cache to v1.9.2
