@@ -51,3 +51,14 @@
 .meaning{overflow-wrap:anywhere}
 .collocations .pill{max-width:100%;overflow-wrap:anywhere}
 @media(max-width:520px){.word-card .word-title,.today-card .word-title{font-size:clamp(30px,11vw,48px)}}
+
+/* v1.6 content expansion polish */
+.word-card,.today-card{overflow:hidden}
+.word-title{max-width:100%;overflow-wrap:anywhere;word-break:normal;hyphens:auto}
+.word-card .word-title{font-size:clamp(25px,3.95vw,47px);line-height:.92;letter-spacing:-.045em}
+.today-card .word-title{font-size:clamp(38px,8vw,80px)}
+.word-header{min-width:0}
+.word-header>div:first-child{min-width:0}
+.meaning{overflow-wrap:anywhere}
+.collocations .pill{max-width:100%;overflow-wrap:anywhere}
+@media(max-width:520px){.word-card .word-title,.today-card .word-title{font-size:clamp(29px,10.7vw,47px)}}
