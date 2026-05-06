@@ -194,3 +194,6 @@ button,input,select{font:inherit}
 button{touch-action:manipulation}
 .controls button{white-space:nowrap}
 .search-input{min-width:0}
+
+/* v1.9.2 quiz filter fix polish */
+.quiz-card .eyebrow{word-break:break-word}
