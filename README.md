@@ -1,4 +1,4 @@
-# SpanishWise v1.9
+# SpanishWise v1.9.1
 
 Learning Experience Pack.
 
@@ -41,3 +41,12 @@ Upload all files to the repo root:
 - service-worker.js
 
 Then commit and hard refresh once.
+
+
+## v1.9.1 fix
+
+- Fixed search controls with delegated event handling
+- Fixed category and level filter clearing
+- Fixed Clear button reliability
+- Added explicit button types to prevent accidental form-style behaviour
+- Updated cache to v1.9.1
