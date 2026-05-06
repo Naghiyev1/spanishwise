@@ -1,4 +1,4 @@
-# SpanishWise v1.9.2
+# SpanishWise v1.9.3
 
 Learning Experience Pack.
 
@@ -60,3 +60,13 @@ Then commit and hard refresh once.
 - Changing quiz filters now generates a fresh question from the selected pool
 - Saved and Weak quiz modes now respect category and level filters
 - Updated cache to v1.9.2
+
+
+## v1.9.3 mobile calm fix
+
+- Removed the stats strip from Today, Words, Grammar, Quiz, Weak and Saved pages
+- Kept full stats inside the Stats page
+- Home page now focuses on the daily word instead of study metrics
+- Daily word selection now uses a local calendar date key and changes once per local day
+- Added the current date to the Today page so the daily-word behaviour feels intentional
+- Updated cache to v1.9.3
