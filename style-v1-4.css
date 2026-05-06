@@ -29,3 +29,14 @@
 .meaning{overflow-wrap:anywhere}
 .collocations .pill{max-width:100%;overflow-wrap:anywhere}
 @media(max-width:520px){.word-card .word-title,.today-card .word-title{font-size:clamp(32px,12vw,50px)}}
+
+/* v1.4 content expansion polish */
+.word-card,.today-card{overflow:hidden}
+.word-title{max-width:100%;overflow-wrap:anywhere;word-break:normal;hyphens:auto}
+.word-card .word-title{font-size:clamp(27px,4.3vw,49px);line-height:.92;letter-spacing:-.048em}
+.today-card .word-title{font-size:clamp(42px,8.6vw,84px)}
+.word-header{min-width:0}
+.word-header>div:first-child{min-width:0}
+.meaning{overflow-wrap:anywhere}
+.collocations .pill{max-width:100%;overflow-wrap:anywhere}
+@media(max-width:520px){.word-card .word-title,.today-card .word-title{font-size:clamp(31px,11.5vw,49px)}}
